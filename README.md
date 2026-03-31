@@ -13,6 +13,28 @@ Preset avanzado de **NTLite** enfocado en crear una versión de Windows extremad
 
 ---
 
+## 📺 Más contenido
+
+<p align="center">
+  🎥 Tutoriales, optimizaciones y más contenido en mi canal
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@IngPedroza" target="_blank">
+    <img src="https://img.shields.io/badge/📺%20VER%20EN%20YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  🔔 Suscríbete para más builds, tweaks y sistemas optimizados
+</p>
+
+---
+
+<p align="center">
+  <b>⚡ Windows optimizado | 🎮 Gaming | 🚀 Máximo rendimiento</b>
+</p>
+
 ## 📥 Descarga
 
 <p align="center">
@@ -235,25 +257,3 @@ Si sabes lo que estás haciendo…
 Este preset es una bestia ⚡
 
 ---
-
-## 📺 Más contenido
-
-<p align="center">
-  🎥 Tutoriales, optimizaciones y más contenido en mi canal
-</p>
-
-<p align="center">
-  <a href="https://www.youtube.com/@IngPedroza" target="_blank">
-    <img src="https://img.shields.io/badge/📺%20VER%20EN%20YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  🔔 Suscríbete para más builds, tweaks y sistemas optimizados
-</p>
-
----
-
-<p align="center">
-  <b>⚡ Windows optimizado | 🎮 Gaming | 🚀 Máximo rendimiento</b>
-</p>
