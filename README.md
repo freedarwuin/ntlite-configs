@@ -17,7 +17,9 @@ Preset avanzado de **NTLite** enfocado en crear una versión de Windows extremad
 
 🔗 **ISO personalizada lista para usar:**
 
-👉 https://drive.google.com/open?id=1TC46CFWcg7Gtt635GLEDxijm8919afEC&usp=drive_fs
+<a href="https://drive.google.com/open?id=1TC46CFWcg7Gtt635GLEDxijm8919afEC&usp=drive_fs" target="_blank">
+👉 Descargar ISO
+</a>
 
 > ⚠️ Recomendado descargar con cuenta de Google para evitar límites.
 
