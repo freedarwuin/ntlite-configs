@@ -38,13 +38,13 @@ Preset avanzado de **NTLite** enfocado en crear una versión de Windows extremad
 ## 📥 Descarga
 
 <p align="center">
-  <a href="https://exe.io/vhRho" target="_blank">
+  <a href="https://exe.io/kMcdLcSC" target="_blank">
     <img src="https://img.shields.io/badge/⬇️%20DESCARGA%20DIRECTA-FF0000?style=for-the-badge&logo=windows&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  ⚠️ Recomendado descargar con cuenta de Google para evitar límites.
+  ⚠️ Recomendado descargar con cuenta de Mediafire para evitar límites.
 </p>
 
 ---
